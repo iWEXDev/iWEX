@@ -1,5 +1,5 @@
 {
   "enc1": "gAAAAABo56086jH-RH_iwp4Iv3OVywfjbBYxUnoC7Clr8mU7pfoL3b9XAWnK7iqrrBoOCvvurJyCYeKITN_HFRqZN9zA-dt1-A==",
   "enc2": "gAAAAABo560806O6ItIgyBwLEFR7TlmF5AzZQPnFXt-VfRrQpyd7M17HJtFhB3SVDw1Syh-a7VXeL4r43BdkBrio-03r5Si2Ow==",
-  "central_site_url": "https://iwexclock-test.local:8003"
+  "central_site_url": "http://iwexclock-test.local:8003"
 }
